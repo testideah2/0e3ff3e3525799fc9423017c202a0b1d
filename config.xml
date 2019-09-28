@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.netfinbank.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. netfinbank</name>
+    <name>netfinbank</name>
 
     <description>
         NETFINBANK.RU - все лучшие кредитные и дебетовые карты, кредиты, займы, карты рассрочки
@@ -28,7 +28,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#009C5D" />
+    <preference name="SplashScreenSpinnerColor" value="#000000" />
 
 
     <platform name="android">
